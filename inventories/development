@@ -1,0 +1,7 @@
+[hosts-example:vars]
+var1=value1
+var2=value2
+
+[hosts-example]
+was-dev1
+was-dev2
